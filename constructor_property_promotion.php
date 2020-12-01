@@ -32,6 +32,6 @@ class Point {
 }
 
 $obj = new Point();
-$obj->showClassVariable();
+$obj->showClassParameter();
 
 ?>
